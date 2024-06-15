@@ -16,4 +16,4 @@ This project aims to predict customer churn for a fictional telecommunications c
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/customer-churn-prediction.git
+   git clone https://github.com/VitorTavares-95/customer-churn-prediction.git
